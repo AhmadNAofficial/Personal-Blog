@@ -1,5 +1,5 @@
 baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: charlola.mode
+title: Ahmed.NADS
 paginate: 5
 theme: charlolamode
 
@@ -13,20 +13,17 @@ menu:
         - name: Articles
           url: articles/
           weight: 20
-        # - name: Categories
-        #   url: categories/
-        #   weight: 10
-        # - name: new Tab
-        #   url: mewtab/
-        #   weight: defines order of tabs
+        - name: Catagories
+          url: catagories/
+          weight: 10
 
 
 params:
-    author: Author's Name
+    author: Ahmed Nasser
 
 
     defaultTheme: auto
-    # disableThemeToggle: true
+    disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
     displayFullLangName: true
@@ -36,26 +33,25 @@ params:
 
     profileMode:
         enabled: true
-        title: Joe Doe
-        imageUrl: "/images/profile.png"
-        imageTitle: my image
+        title: Ahmed Nasser Almotawah
+        imageUrl: "/images/profile.jpg"
+        imageTitle: Ahmad.NADS
         # imageWidth: 120
         # imageHeight: 120
-        buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+        # buttons:
+            
     mainSections:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
+        - name: twitter
+          url: "https://twitter.com/AhmedNasser_DS"
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/AhmadNAofficial"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/ahmed-almotawah-9a5828247/"
 
-      # add more social icons. find more in svg.html file
+     
       # - name: youtube
       #   url: yoururl
       # - name: twitter
@@ -64,13 +60,13 @@ params:
       #   url: yoururl
 
 
-    # change favicon in images folder (icon for web tab)
-    assets:
-          favicon: "/images/favicon.ico"
-          favicon16x16: "/images/favicon-16x16.png"
-          favicon32x32: "/images/favicon-32x32.png"
-          apple_touch_icon: "/images/apple-touch-icon.png"
-          safari_pinned_tab: "/images/apple-touch-icon.png"
+    
+    # assets:
+    #       favicon: "/images/favicon.ico"
+    #       favicon16x16: "/images/favicon-16x16.png"
+    #       favicon32x32: "/images/favicon-32x32.png"
+    #       apple_touch_icon: "/images/apple-touch-icon.png"
+    #       safari_pinned_tab: "/images/apple-touch-icon.png"
 
 
 

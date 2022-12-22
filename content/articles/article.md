@@ -1,13 +1,10 @@
 ---
-title: Surprise Surprise
+title: This is a test article checking if everything is ok
 type: page
-description: Click on me to see the content.
+description: Hello world!
 topic: career
 ---
 
-### Thank you for your support!
+### Hope everything is working out
 
-
-Hello. If you like this template, I'd be happy to get a [coffee donation](https://ko-fi.com/heycharlola) :)
-
-{{< figure src="/images/thankyou.png" title="" >}}
+markdown is best.

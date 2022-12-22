@@ -4,12 +4,10 @@ type: list
 ---
 
 
-#### LinkedIn
-If you have a short message or question, drop a message via [LinkedIn](https://www.linkedin.com/in/heycharlola/).
+#### Email
+To contact me please send a mail at: ahmadofficial707@gmail.com.
 
 
-<!-- #### Email
-For enquiries or longer messages, please email me. -->
 
 
 
