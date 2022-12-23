@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed.NADS</title>
+    <link>https://ahmadnaofficial.github.io/personal-blog/</link>
+    <description>Recent content on Ahmed.NADS</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ahmadnaofficial.github.io/personal-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is a test article checking if everything is ok</title>
+      <link>https://ahmadnaofficial.github.io/personal-blog/articles/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadnaofficial.github.io/personal-blog/articles/article/</guid>
+      <description>Hope everything is working out markdown is best.</description>
+    </item>
+    
+  </channel>
+</rss>
